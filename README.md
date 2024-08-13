@@ -17,4 +17,11 @@ This project was a valuable experience that allowed me to apply my skills in com
 
 I’m excited to continue exploring the intersection of AI, computer vision, and drone technology. Let’s connect if you’re interested in learning more or discussing potential collaborations!
 
+![Stitched Image](https://github.com/user-attachments/assets/2a7da114-41cf-4b81-a4d0-c6c4a039f160)
+
+![file_2024-08-12_14 55 50](https://github.com/user-attachments/assets/53671ee8-ecb4-4028-a931-2b13b5079a87)
+
+![file_2024-08-12_14 56 10](https://github.com/user-attachments/assets/817da22e-0d08-4ef0-a1ec-c9244a1de889)
+
+
 #DroneTechnology #3DMapping #ComputerVision #AI #Innovation #ZoeDepth #Tech
